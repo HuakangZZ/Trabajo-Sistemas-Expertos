@@ -22,7 +22,7 @@ Un Sistema Experto es un sistema que emplea conocimiento humano capturado en una
 Un experto humano es aquella persona la cual almacena conocimientos y experiencias para luego aplicarlos en la realización de tareas de una manera rápida y óptima, de la cantidad de información y experiencias guardadas, depende su efectividad.
 
 ### Estructura de un Sistema Experto
-![Estructura de un Sistema Experto](imagenes/2.png)
+![Estructura de un Sistema Experto](Imagenes/2.png)
 
 ### Componentes de un Sistema Experto
 1. **Base de Conocimiento**
@@ -58,7 +58,7 @@ Un experto humano es aquella persona la cual almacena conocimientos y experienci
     - **Reparacion**: Corrige los errores detectados para que vuelva a ser correcta la situación.
 
 #### Ejemplos de Sistemas Expertos Reales
-![Ejemplos de Sistemas Expertos Reales](imagenes/11.png)
+![Ejemplos de Sistemas Expertos Reales](Imagenes/11.png)
 
 ## Sistemas Expertos y PROLOG
 Los ***sistemas expertos*** y ***Prolog*** están estrechamente relacionados, ya que Prolog es un lenguaje de programación lógica (como su nombre lo indica) que se utiliza normalmente para implementar sistemas expertos.
@@ -77,8 +77,8 @@ Prolog proporciona un conjunto de herramientas y características muy útiles pa
 Prolog es una herramienta muy poderosa y útil para implementar sistemas expertos debido a su capacidad para representar el conocimiento, realizar inferencias lógicas y responder consultas. Proporciona un entorno flexible y robusto para construir sistemas expertos eficaces en diversos dominios.
 
 #### Ejemplos de PROLOG
-![Ejemplos de PROLOG 1.1](imagenes/18.png)
-![Ejemplos de PROLOG 1.2](imagenes/19.png)
-![Ejemplos de PROLOG 1.3](imagenes/20.png)
-![Ejemplos de PROLOG 2.1](imagenes/21.png)
-![Ejemplos de PROLOG 2.2](imagenes/22.png)
+![Ejemplos de PROLOG 1.1](Imagenes/18.png)
+![Ejemplos de PROLOG 1.2](Imagenes/19.png)
+![Ejemplos de PROLOG 1.3](Imagenes/20.png)
+![Ejemplos de PROLOG 2.1](Imagenes/21.png)
+![Ejemplos de PROLOG 2.2](Imagenes/22.png)
